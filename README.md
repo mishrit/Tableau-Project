@@ -1,2 +1,2 @@
 # Tableau-Project
-I Created the Dashboard for simple present to Information using Tableau.
+Used Tableau to extract the useful information from the dataset.
